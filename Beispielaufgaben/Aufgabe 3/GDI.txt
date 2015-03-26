@@ -1,0 +1,14 @@
+Name:
+View gewinnt
+Schlagworte:
+Spiel, 1 gg. 1
+Aufwand:
+5,0h
+Semester:
+WS11
+Schwierigkeit:
+schwer
+Voraussetzung:
+Basics, Switch-Case, Zweidimensionale Arrays, Methoden
+Lernziele:
+Entwurf von Algorithmen, Umgang mit zweidimensionalen Arrays, Methoden

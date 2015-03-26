@@ -1,15 +1,14 @@
 Name:
-TicTacToe
+Kleines Adressregister
 Schlagworte:
-TicTacToe
+Arrays, Strings, 
 Aufwand:
-4h
+2,0h
 Semester:
-SS07, SS08, SS12
+WS10-WS11
 Schwierigkeit:
 mittel
 Voraussetzung:
-Basics, Funktionen, Prozeduren, Parameter, Eindimensionale Arrays
+Basics, Switch-Case, Eindimensionale Arrays, Methoden, Klassen
 Lernziele:
 Entwurf von Algorithmen, Eindimensionale Arrays, Funktionen, Unterprogramme
-
