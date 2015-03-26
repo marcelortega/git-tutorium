@@ -1,0 +1,15 @@
+Name:
+TicTacToe
+Schlagworte:
+TicTacToe
+Aufwand:
+4h
+Semester:
+SS07, SS08, SS12
+Schwierigkeit:
+mittel
+Voraussetzung:
+Basics, Funktionen, Prozeduren, Parameter, Eindimensionale Arrays
+Lernziele:
+Entwurf von Algorithmen, Eindimensionale Arrays, Funktionen, Unterprogramme
+

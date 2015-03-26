@@ -1,0 +1,14 @@
+Name:
+Summierer
+Schlagworte:
+Addition, geeignete Schleifen, positive Zahlen
+Aufwand:
+0,5h
+Semester:
+WS02-WS04, WS06-WS09
+Schwierigkeit:
+leicht
+Voraussetzung:
+Variablen, Ganze Zahlen, Bedingungen, Schleifen, Konsoleneingabe
+Lernziele:
+Entwurf von Algorithmen, Verständnis von Algorithmen, Elementare Datentypen, Schleifen
